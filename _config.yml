@@ -1,7 +1,7 @@
 name: Fabricefardeau
 favicon: null
 layout_spectrum: 0.49895
-typography_spectrum: 0.3259566642809659
+typography_spectrum: 0.40808
 title: Fabrice Fardeau
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#f6213f'
     - '#000000'
     - '#747474'
-  brandStrength: 0.01997281424701214
-  lightness: 0.9413686008192599
+  brandStrength: 0
+  lightness: 0.5625
   saturation: 0.7348187221214175
-  rhythmicContrast: 0.01859171479009092
+  rhythmicContrast: 0
 purpose: []

@@ -1,6 +1,6 @@
 name: Fabricefardeau
 favicon: null
-layout_spectrum: 0.9734035783912987
+layout_spectrum: 0.49895
 typography_spectrum: 0.3259566642809659
 title: Fabrice Fardeau
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#ffffff'
+    - '#00c8ec'
+    - '#f6213f'
+    - '#000000'
+    - '#747474'
   brandStrength: 0.01997281424701214
   lightness: 0.9413686008192599
   saturation: 0.7348187221214175
